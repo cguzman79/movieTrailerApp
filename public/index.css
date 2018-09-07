@@ -1,0 +1,58 @@
+@CHARSET "ISO-8859-1";
+
+
+.top {
+	text-align: center;
+	color: #f9140c;
+	text-shadow:
+		-1px -1px 0 #ffffff,
+		1px -1px 0 #ffffff,
+		-1px 1px 0 #ffffff,
+		1px 1px 0 #ffffff;
+	padding: 1.5em;
+    background-image: url(images/bgImage.jpg);
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+
+.table {
+		
+    background-image: url(images/bgImage2.jpg);
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: 100%;
+    padding: 3em;
+    text-shadow:
+		-1px -1px 0 #ffffff,
+		1px -1px 0 #ffffff,
+		-1px 1px 0 #ffffff,
+		1px 1px 0 #ffffff;
+}
+
+.dark {
+	color: #000000;
+	font-weight: bold;
+}
+
+.container {
+	background: linear-gradient(to right, #000033 20%, #660000 100%); 
+}
+
+.bottom1
+{
+     background-image: url(images/image1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+.bottom2
+{
+     background-image: url(images/image2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+
+
